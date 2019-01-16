@@ -26,6 +26,7 @@ limitations under the License.
    --background-light: #AAA;
    --background-bright: #FFF;
 
+   --notifcation-badge: #DC5960;	
    --border-dim: #666;
    --border-bright: var(--primary);
 
