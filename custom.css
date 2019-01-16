@@ -25,8 +25,7 @@ limitations under the License.
    --background-hover: rgba(255, 255, 255, 0.1);
    --background-light: #AAA;
    --background-bright: #FFF;
-
-   --notifcation-badge: #DC5960;	
+	
    --border-dim: #666;
    --border-bright: var(--primary);
 
