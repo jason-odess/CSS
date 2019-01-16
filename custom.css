@@ -257,7 +257,7 @@ li.active[class] span,
 .p-channel_sidebar__badge,
 .p-channel_sidebar__banner--mentions {
    /*inverted because important*/
-   background-color: var(--border-bright) !important;
+   background-color: var(--notifcation-badge) !important;
    border-color: var(--text-bright);
    color: var(--text-bright);
 }
